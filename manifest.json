@@ -1,0 +1,21 @@
+{
+  "name": "Pravesh Gold QMS",
+  "short_name": "Gold QMS",
+  "description": "Premium Real-Time Queue Management for Pravesh Gold",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#CFB53B",
+  "icons": [
+    {
+      "src": "./pravesh-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./pravesh-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
